@@ -4,4 +4,5 @@
 
 Solving merge conflicts takes conscious effort, but I can do it!
 
-Oh, gawd this is frustrating
+I like the version control for collaborating with multiple people.
+this can be frustrating/challenging too.
